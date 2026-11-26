@@ -116,12 +116,12 @@ Python 参考实现中修正，MATLAB 源文件保留原样以保证可追溯：
 ## 7. 引用
 
 ```bibtex
-@misc{cuizhixiang2026qsmc,
+@misc{wujinzhang8312026qsmc,
   title  = {quadrotor-prescribed-time-smc: prescribed-time sliding mode
             position tracking for quadrotors},
   author = {Cui, Zhixiang},
   year   = {2026},
-  url    = {https://github.com/wujinzhang831/一种基于预定时间滑模与分段增益调度的四旋翼无人机位置跟踪方法}
+  url    = {https://github.com/wujinzhang831/quadrotor-prescribed-time-smc}
 }
 ```
 
