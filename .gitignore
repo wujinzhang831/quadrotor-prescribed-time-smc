@@ -1,0 +1,14 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+codegen/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Office / 临时文件
+~$*
+*.tmp
+.DS_Store
+Thumbs.db

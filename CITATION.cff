@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the repository as below."
+title: "quadrotor-prescribed-time-smc: prescribed-time sliding mode position tracking for quadrotors"
+abstract: "A dual-loop position controller for quadrotors combining a prescribed-time sliding-mode outer loop, attitude-command low-pass filtering and a segmented SMC-to-PID hand-over, with MATLAB sources, Python reference implementation and reproducible data."
+authors:
+  - family-names: "Cui"
+    given-names: "Zhixiang"
+    affiliation: "Harbin Institute of Technology"
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+repository-code: "https://github.com/wujinzhang831/一种基于预定时间滑模与分段增益调度的四旋翼无人机位置跟踪方法"
+keywords:
+  - quadrotor
+  - prescribed-time control
+  - sliding mode control
+  - gain scheduling
+  - UAV
